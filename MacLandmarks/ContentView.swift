@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  SwiftUIDemo
+//  MacLandmarks
 //
-//  Created by dueda on 2021/5/28.
+//  Created by dueda on 2021/6/5.
 //
 
 import SwiftUI
